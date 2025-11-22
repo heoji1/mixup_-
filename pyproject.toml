@@ -1,0 +1,11 @@
+[project]
+name = "prompthon-baseline"
+version = "0.1.0"
+description = "Baseline code for Prompthon (Prompt Hackerthon) using Upstage API"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "tqdm>=4.66.0",
+    "openai>=1.37.0",
+]
